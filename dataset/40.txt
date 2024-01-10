@@ -1,0 +1,17 @@
+<q>
+largest earthquake ever
+</q>
+
+<d>
+What are the biggest historical earthquakes?
+
+Earthquakes have been instrumentally recorded since the end of the 19th century only. Older earthquakes’ magnitudes are therefore just estimates.
+
+The biggest earthquake ever recorded, of magnitude 9.5, happened in 1960 in Chile, at a subduction zone where the Pacific plate dives under the South American plate. The second biggest earthquake had a magnitude 9.2 and happened in 1964 in Alaska, at another subduction zone where the Pacific plate dives under the North American plate. The infamous 2004 Indian Ocean earthquake, which triggered a devastating tsunami that claimed a quarter million lives, was also at a subduction zone and of a magnitude 9.2.
+
+The biggest earthquakes are not necessarily the deadliest ones. For example, the 1976 Tangshan earthquake in China, of magnitude 7 only, was a lot less powerful than the 2004 Indian Ocean earthquake, but caused about the same number of casualties. On the other hand, the biggest earthquake ever recorded caused very few casualties. In fact, many conditions influence the death toll during such catastrophes: the depth of the earthquake, the distance to the densely populated areas, and the site response. The site response is the way one given location has to react to seismic waves: some places, because of their geological structure, shake more than others.
+
+</d>
+<summ>
+The biggest earthquake ever recorded, of magnitude 9.5, happened in 1960 in ... Top five largest earthquakes on record (Source: EOS/Rachel Siao) The biggest
+</summ>

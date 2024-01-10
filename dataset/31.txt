@@ -1,0 +1,24 @@
+<q>
+vorp basketball explained
+</q>
+
+<d>
+VORP is one of the advanced stats used in the NBA for analyzing a player's impact over a duration of time. It stands for “Value Over Replacement Player.” The stat has been used in the NBA since the 1973-1974 season. VORP calculates a box-score estimate of the points per 100 team possessions that a player scores over a replacement player translated to the average team over a full NBA season.
+
+Let's break it down further. First and foremost, what is a replacement player? Think of this as the bench or role player. Theoretically, a replacement player or a bench player is costing the team points whenever he is on the floor. A replacement player costs the team around two points (-2) if he plays the entire game. Analytically, a team gets 100 possessions a game in the NBA.
+
+VORP is a player's value over the replacement player's (-2). VORP is not a game stat but a season stat, so the more games a player plays, the higher their VORP. In addition, it is an accumulative stat, so the more seasons a player plays, the higher their VORP gets.
+Who are the NBA's VORP kings?
+
+Let's take a look at some of the players with leading VORP scores. The players are not listed in any particular order since the number of seasons played and a player's position highly influence the VORP score.
+
+According to reference basketball, Nikola Jokic is ranked 32nd on the all-time list with a VORP of 52.82. Quite a feat, considering the Serbian has only played eight seasons in the NBA. Most of the people on the list have played way more seasons than Jokic. This is quantifiable evidence of the Joker's mastery on the basketball court.
+
+LeBron James is the all-time leader in the VORP table at 146.57. If we were to use VORP to settle the GOAT debate, then he would outshine the great Michael Jordan who comes in second at 116.05. James has, however, played five more seasons than Jordan did.
+
+As you can see, Chris Paul also features high on the VORP list at number six with a score of 96.15. Paul has had an excellent career with 18 seasons under his belt, and he is still going strong. Other current players high up the VORP list include Kevin Durant at 12 with a score of 80.31, and James Harden at 16 with 76.01.
+
+</d>
+<summ>
+It stands for “Value Over Replacement Player.” The stat has been used in the NBA since the 1973-1974 season. VORP calculates a box-score 
+</summ>

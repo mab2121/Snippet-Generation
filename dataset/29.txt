@@ -1,0 +1,27 @@
+<q>
+per basketball explained
+</q>
+
+<d>
+The player efficiency rating (PER) is a rating of a player's per-minute productivity.
+
+To generate PER, I created formulas -- outlined in tortuous detail in my book "Pro Basketball Forecast" -- that return a value for each of a player's accomplishments. That includes positive accomplishments such as field goals, free throws, 3-pointers, assists, rebounds, blocks and steals, and negative ones such as missed shots, turnovers and personal fouls.
+
+Two important things to remember about PER are that it's per-minute and is pace-adjusted.
+
+Because it's a per-minute measure, it allows us to compare, say, Steve Blake and Derek Fisher, even though there is a disparity in their minutes played.
+
+I also adjust each player's rating for his team's pace, so that players on a slow-paced team like Detroit aren't penalized just because their team has fewer possessions than a fast-paced team such as Golden State.
+
+Bear in mind that PER is not the final, once-and-for-all evaluation of a player's accomplishments during the season. This is especially true for defensive specialists -- such as Quinton Ross and Jason Collins -- who don't get many blocks or steals.
+
+What PER can do, however, is summarize a player's statistical accomplishments in a single number. That allows us to unify the disparate data on each player we try to track in our heads (e.g., Corey Maggette: free-throw machine, good rebounder, decent shooter, poor passer, etc.) so that we can move on to evaluating what might be missing from the stats.
+
+I set the league average in PER to 15.00 every season.
+
+Among players with at least 500 minutes in 2010-11, the highest rating was LeBron James' 27.34. The lowest was Stephen Graham's 4.41
+
+</d>
+<summ>
+The player efficiency rating (PER) is a rating of a player's per-minute productivity. To generate PER, I created formulas -- outlined in
+</summ>
